@@ -1,0 +1,16 @@
+{
+  "name": "lumel-backend-assessment",
+  "version": "1.0.0",
+  "description": "Lumel Backend Assessment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "set NODE_ENV=default&&nodemon server.js",
+    "start-serve": "node secretsProcessor.js && nodemon server.js"
+  },
+  "author": "R Subash",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

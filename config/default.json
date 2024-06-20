@@ -1,0 +1,11 @@
+{
+    "connectionLimit": "20",
+    "host": "localhost",
+    "user": "root",
+    "password": "admin@123",
+    "database": "lumel-backend-assessment",
+    "port": "3306",
+    "debug": "false",
+    "timezone": "UTC+0",
+    "ssl": false
+  }
